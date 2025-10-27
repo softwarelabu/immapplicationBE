@@ -2,7 +2,7 @@ package com.softlab.applicationHouse.dto;
 
 public class ItemDTO {
 
-private Long id;
+    private Long id;
     private String name;
     private double price;
     private String supermarket;
